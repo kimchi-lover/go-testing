@@ -1,0 +1,2 @@
+[![say-hello](https://github.com/kimchi-lover/go-testing/actions/workflows/say-hello.yml/badge.svg)](https://github.com/kimchi-lover/go-testing/actions/workflows/say-hello.yml)
+[![CI](https://github.com/kimchi-lover/go-testing/actions/workflows/ci.yml/badge.svg)](https://github.com/kimchi-lover/go-testing/actions/workflows/ci.yml)
